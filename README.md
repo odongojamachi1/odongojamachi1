@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odongojamachi1
+- 👋 Hi, I’m odongojamachi1
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate 
